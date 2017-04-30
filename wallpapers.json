@@ -18,7 +18,7 @@
             {
                 "name": "Others"
             },
-			{
+	    {
                 "name": "Pattern"
             },
             {
@@ -28,12 +28,15 @@
                 "name": "Space"
             },
             {
+                "name": "Superhero"
+            },
+            {
                 "name": "Unsaturated"
             },
             {
                 "name": "Wildlife"
             },
-			{
+			 {
             "name":"Landscapes"
         },
         {
@@ -43,6 +46,10 @@
         {
             "name":"Earth"
           
+        },
+        {
+            "name":"People"
+            
         },
         {
             "name":"Black and white"
@@ -2761,9 +2768,9 @@
 		},
 		{
 			"name": "Minimalistic 79",
-			"author": "Nick Nice",
-			"url": "hhttps://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Minimalistic/Minimalistic%2079.jpg",
-			"thumbUrl": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Minimalistic/Minimalistic%2079.jpg",
+			"author": "Jeremy for Life",
+			"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Minimalistic/Minimalistic%2079.jpeg",
+			"thumbUrl": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Minimalistic/Minimalistic%2079.jpeg",
 			"dimensions": "1080 x 1920",
 			"category":"minimalistic"
 		},
@@ -2855,8 +2862,471 @@
 			"dimensions": "1080 x 1920",
 			"category":"others"
 		},
+		{
+			"name": "Superhero 1",
+			"author": "Sdev99",
+			"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Superhero/Superhero%201.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Superhero/Superhero%201.jpg",
+			"dimensions": "1080 x 1920",
+			"category":"superhero"
+		},
+		{
+			"name": "Superhero 2",
+			"author": "Sdev99",
+			"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Superhero/Superhero%202.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Superhero/Superhero%202.jpg",
+			"dimensions": "1080 x 1920",
+			"category":"superhero"
+		},
+		{
+			"name": "Superhero 3",
+			"author": "Sdev99",
+			"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Superhero/Superhero%203.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Superhero/Superhero%203.jpg",
+			"dimensions": "1080 x 1920",
+			"category":"superhero"
+		},
+		{
+			"name": "Superhero 4",
+			"author": "Sdev99",
+			"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Superhero/Superhero%204.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Superhero/Superhero%204.jpg",
+			"dimensions": "1080 x 1920",
+			"category":"superhero"
+		},
+		{
+			"name": "Superhero 5",
+			"author": "Sdev99",
+			"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Superhero/Superhero%205.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Superhero/Superhero%205.jpg",
+			"dimensions": "1080 x 1920",
+			"category":"superhero"
+		},
+		{
+			"name": "Superhero 6",
+			"author": "Sdev99",
+			"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Superhero/Superhero%206.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Superhero/Superhero%206.jpg",
+			"dimensions": "1080 x 1920",
+			"category":"superhero"
+		},
+		{
+			"name": "Cityscape 22",
+			"author": "Duncan Pringle",
+			"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Cityscape/Cityscape%2022.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Cityscape/Cityscape%2022.jpg",
+			"dimensions": "1080 x 1920",
+			"category":"cityscape"
+		},
+		{
+			"name": "Cityscape 23",
+			"author": "Jeremy for Life",
+			"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Cityscape/Cityscape%2023.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Cityscape/Cityscape%2023.jpg",
+			"dimensions": "1080 x 1920",
+			"category":"cityscape"
+		},
+		{
+			"name": "People 17",
+			"author": "Nick Nice",
+			"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/People/People%2017.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/People/People%2017.jpg",
+			"dimensions": "1080 x 1920",
+			"category":"people"
+		},
+		{
+			"name": "Unsaturated 18",
+			"author": "Jeremy for Life",
+			"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Unsaturated/Unsaturated%2018.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Unsaturated/Unsaturated%2018.jpg",
+			"dimensions": "1080 x 1920",
+			"category":"unsaturated"
+		},
+		{
+			"name": "Minimalistic 80",
+			"author": "John",
+			"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Minimalistic/Minimalistic%2080.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Minimalistic/Minimalistic%2080.jpg",
+			"dimensions": "1080 x 1920",
+			"category":"minimalistic"
+		},
+		{
+			"name": "Minimalistic 81",
+			"author": "John",
+			"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Minimalistic/Minimalistic%2081.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Minimalistic/Minimalistic%2081.jpg",
+			"dimensions": "1080 x 1920",
+			"category":"minimalistic"
+		},
+		{
+			"name": "Minimalistic 82",
+			"author": "John",
+			"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Minimalistic/Minimalistic%2082.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Minimalistic/Minimalistic%2082.jpg",
+			"dimensions": "1080 x 1920",
+			"category":"minimalistic"
+		},
+		{
+			"name": "Minimalistic 83",
+			"author": "John",
+			"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Minimalistic/Minimalistic%2083.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Minimalistic/Minimalistic%2083.jpg",
+			"dimensions": "1080 x 1920",
+			"category":"minimalistic"
+		},
+		{
+			"name": "Minimalistic 84",
+			"author": "John",
+			"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Minimalistic/Minimalistic%2084.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Minimalistic/Minimalistic%2084.jpg",
+			"dimensions": "1080 x 1920",
+			"category":"minimalistic"
+		},
+		{
+			"name": "Minimalistic 85",
+			"author": "John",
+			"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Minimalistic/Minimalistic%2085.jpgg",
+			"thumbUrl": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Minimalistic/Minimalistic%2085.jpg",
+			"dimensions": "1080 x 1920",
+			"category":"minimalistic"
+		},
+		{
+			"name": "Minimalistic 86",
+			"author": "John",
+			"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Minimalistic/Minimalistic%2086.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Minimalistic/Minimalistic%2086.jpg",
+			"dimensions": "1080 x 1920",
+			"category":"minimalistic"
+		},
+		{
+			"name": "Minimalistic 87",
+			"author": "Claudio Felicetti",
+			"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Minimalistic/Minimalistic%2087.png",
+			"thumbUrl": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Minimalistic/Minimalistic%2087.png",
+			"dimensions": "1080 x 1920",
+			"category":"minimalistic"
+		},
+		{
+			"name": "Minimalistic 88",
+			"author": "Claudio Felicetti",
+			"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Minimalistic/Minimalistic%2088.png",
+			"thumbUrl": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Minimalistic/Minimalistic%2088.png",
+			"dimensions": "1080 x 1920",
+			"category":"minimalistic"
+		},
+		{
+			"name": "Minimalistic 89",
+			"author": "Claudio Felicetti",
+			"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Minimalistic/Minimalistic%2089.png",
+			"thumbUrl": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Minimalistic/Minimalistic%2089.png",
+			"dimensions": "1080 x 1920",
+			"category":"minimalistic"
+		},
+		{
+			"name": "Nature 80",
+			"author": "Claudio Felicetti",
+			"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Nature/Nature%2080.png",
+			"thumbUrl": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Nature/Nature%2080.png",
+			"dimensions": "1080 x 1920",
+			"category":"nature"
+		},
+		{
+			"name": "Nature 81",
+			"author": "Claudio Felicetti",
+			"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Nature/Nature%2081.png",
+			"thumbUrl": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Nature/Nature%2081.png",
+			"dimensions": "1080 x 1920",
+			"category":"nature"
+		},
+		{
+			"name": "Automobiles 24",
+			"author": "Octavian DC",
+			"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Automobiles/Automobiles%2024.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Automobiles/Automobiles%2024.jpg",
+			"dimensions": "1080 x 1920",
+			"category":"automobiles"
+		},
+		{
+			"name": "Cityscape 24",
+			"author": "Octavian DC",
+			"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Cityscape/Cityscape%2024.jpeg",
+			"thumbUrl": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Cityscape/Cityscape%2024.jpeg",
+			"dimensions": "1080 x 1920",
+			"category":"cityscape"
+		},
+		{
+			"name": "Nature 82",
+			"author": "Claudio Felicetti",
+			"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Nature/Nature%2082.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Nature/Nature%2082.jpg",
+			"dimensions": "1080 x 1920",
+			"category":"nature"
+		},
+		{
+			"name": "Nature 83",
+			"author": "Nick Nice",
+			"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Nature/Nature%2083.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Nature/Nature%2083.jpg",
+			"dimensions": "1080 x 1920",
+			"category":"nature"
+		},
+		{
+			"name": "Nature 84",
+			"author": "Claudio Felicetti",
+			"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Nature/Nature%2084.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Nature/Nature%2084.jpg",
+			"dimensions": "1080 x 1920",
+			"category":"nature"
+		},
+		{
+			"name": "Nature 85",
+			"author": "Claudio Felicetti",
+			"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Nature/Nature%2085.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Nature/Nature%2085.jpg",
+			"dimensions": "1080 x 1920",
+			"category":"nature"
+		},
+		{
+			"name": "Nature 86",
+			"author": "Nick Nice",
+			"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Nature/Nature%2086.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Nature/Nature%2086.jpg",
+			"dimensions": "1080 x 1920",
+			"category":"nature"
+		},
+		{
+			"name": "Nature 87",
+			"author": "Claudio Felicetti",
+			"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Nature/Nature%2087.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Nature/Nature%2087.jpg",
+			"dimensions": "1080 x 1920",
+			"category":"nature"
+		},
+		{
+			"name": "Nature 88",
+			"author": "Nick Nice",
+			"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Nature/Nature%2088.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Nature/Nature%2088.jpg",
+			"dimensions": "1080 x 1920",
+			"category":"nature"
+		},
+		{
+			"name": "People 18",
+			"author": "EKO",
+			"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/People/People%2018.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/People/People%2018.jpg",
+			"dimensions": "1080 x 1920",
+			"category":"people"
+		},
+		{
+			"name": "Unsaturated 19",
+			"author": "Reshad Abd",
+			"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Unsaturated/Unsaturated%2019.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Unsaturated/Unsaturated%2019.jpg",
+			"dimensions": "1080 x 1920",
+			"category":"unsaturated"
+		},
+		{
+			"name": "Unsaturated 20",
+			"author": "Reshad Abd",
+			"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Unsaturated/Unsaturated%2020.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Unsaturated/Unsaturated%2020.jpg",
+			"dimensions": "1080 x 1920",
+			"category":"unsaturated"
+		},
+		{
+			"name": "Unsaturated 21",
+			"author": "Reshad Abd",
+			"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Unsaturated/Unsaturated%2021.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Unsaturated/Unsaturated%2021.jpg",
+			"dimensions": "1080 x 1920",
+			"category":"unsaturated"
+		},
+		{
+			"name": "Unsaturated 22",
+			"author": "Reshad Abd",
+			"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Unsaturated/Unsaturated%2022.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Unsaturated/Unsaturated%2022.jpg",
+			"dimensions": "1080 x 1920",
+			"category":"unsaturated"
+		},
+		{
+			"name": "Cityscape 25",
+			"author": "Lucas Rodrigues",
+			"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Cityscape/Cityscape%2025.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Cityscape/Cityscape%2025.jpg",
+			"dimensions": "1080 x 1920",
+			"category":"cityscape"
+		},
+		{
+			"name": "Minimalistic 90",
+			"author": "Jeremy for Life",
+			"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Minimalistic/Minimalistic%2090.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Minimalistic/Minimalistic%2090.jpg",
+			"dimensions": "1080 x 1920",
+			"category":"minimalistic"
+		},
+		{
+			"name": "Minimalistic 91",
+			"author": "Lucas Rodrigues",
+			"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Minimalistic/Minimalistic%2091.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Minimalistic/Minimalistic%2091.jpg",
+			"dimensions": "1080 x 1920",
+			"category":"minimalistic"
+		},
+		{
+			"name": "Nature 89",
+			"author": "Nithin Gopinath",
+			"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Nature/Nature%2089.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Nature/Nature%2089.jpg",
+			"dimensions": "1080 x 1920",
+			"category":"nature"
+		},
+		{
+			"name": "Nature 90",
+			"author": "Sreerag Vijayakumar",
+			"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Nature/Nature%2090.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Nature/Nature%2090.jpg",
+			"dimensions": "1080 x 1920",
+			"category":"nature"
+		},
+		{
+			"name": "Nature 91",
+			"author": "Lucas Rodrigues",
+			"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Nature/Nature%2091.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Nature/Nature%2091.jpg",
+			"dimensions": "1080 x 1920",
+			"category":"nature"
+		},
+		{
+			"name": "Nature 92",
+			"author": "Lucas Rodrigues",
+			"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Nature/Nature%2092.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Nature/Nature%2092.jpg",
+			"dimensions": "1080 x 1920",
+			"category":"nature"
+		},
+		{
+			"name": "Nature 93",
+			"author": "Lucas Rodrigues",
+			"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Nature/Nature%2093.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Nature/Nature%2093.jpg",
+			"dimensions": "1080 x 1920",
+			"category":"nature"
+		},
+		{
+			"name": "Nature 94",
+			"author": "Lucas Rodrigues",
+			"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Nature/Nature%2094.png",
+			"thumbUrl": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Nature/Nature%2094.png",
+			"dimensions": "1080 x 1920",
+			"category":"nature"
+		},
+		{
+			"name": "Nature 95",
+			"author": "Nick Nice",
+			"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Nature/Nature%2095.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Nature/Nature%2095.jpg",
+			"dimensions": "1080 x 1920",
+			"category":"nature"
+		},
+		{
+			"name": "Others 53",
+			"author": "Lucas Rodrigues",
+			"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Others/Others%2053.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Others/Others%2053.jpg",
+			"dimensions": "1080 x 1920",
+			"category":"others"
+		},
+		{
+			"name": "Others 54",
+			"author": "Lucas Rodrigues",
+			"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Others/Others%2054.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Others/Others%2054.jpg",
+			"dimensions": "1080 x 1920",
+			"category":"others"
+		},
+		{
+			"name": "Others 55",
+			"author": "Lucas Rodrigues",
+			"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Others/Others%2055.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Others/Others%2055.jpg",
+			"dimensions": "1080 x 1920",
+			"category":"others"
+		},
+		{
+			"name": "Others 56",
+			"author": "Rutwik Patel",
+			"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Others/Others%2056.png",
+			"thumbUrl": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Others/Others%2056.png",
+			"dimensions": "1080 x 1920",
+			"category":"others"
+		},
+		{
+			"name": "Others 57",
+			"author": "Rheno Andhika",
+			"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Others/Others%2057.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Others/Others%2057.jpg",
+			"dimensions": "1080 x 1920",
+			"category":"others"
+		},
+		{
+			"name": "Others 58",
+			"author": "Gagi Murjikneli",
+			"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Others/Others%2058.png",
+			"thumbUrl": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Others/Others%2058.png",
+			"dimensions": "1080 x 1920",
+			"category":"others"
+		},
+		{
+			"name": "Others 59",
+			"author": "Lucas Rodrigues",
+			"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Others/Others%2059.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Others/Others%2059.jpg",
+			"dimensions": "1080 x 1920",
+			"category":"others"
+		},
+		{
+			"name": "People 19",
+			"author": "Lucas Rodrigues",
+			"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/People/People%2019.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/People/People%2019.jpg",
+			"dimensions": "1080 x 1920",
+			"category":"people"
+		},
+		{
+			"name": "Unsaturated 23",
+			"author": "Lucas Rodrigues",
+			"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Unsaturated/Unsaturated%2023.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Unsaturated/Unsaturated%2023.jpg",
+			"dimensions": "1080 x 1920",
+			"category":"unsaturated"
+		},
+		{
+			"name": "Unsaturated 24",
+			"author": "Nithin Gopinath",
+			"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Unsaturated/Unsaturated%2024.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Unsaturated/Unsaturated%2024.jpg",
+			"dimensions": "1080 x 1920",
+			"category":"unsaturated"
+		},
+		{
+			"name": "Unsaturated 25",
+			"author": "Reshad Abd",
+			"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Unsaturated/Unsaturated%2025.PNG",
+			"thumbUrl": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Unsaturated/Unsaturated%2025.PNG",
+			"dimensions": "1080 x 1920",
+			"category":"unsaturated"
+		},
+		{
+			"name": "Wildlife 15",
+			"author": "Lucas Rodrigues",
+			"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Wildlife/Wildlife%2015.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Wildlife/Wildlife%2015.jpg",
+			"dimensions": "1080 x 1920",
+			"category":"wildlife"
+		}
 		
-
 
 {
             "name":"100",
@@ -5743,7 +6213,9 @@
             "thumbUrl":"https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/preview/462pre.jpg",
             "category":"featured,landscapes"
         }
-
 	
+	
+	
+      
 	]
-}
+}  
